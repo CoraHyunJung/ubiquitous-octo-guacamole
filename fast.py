@@ -1,2 +1,2 @@
-for _ in range(6):
-    print("stem python file : FastCampus.py")
+for _ in range(16):
+    print("fb python file : FastCampus.py")
